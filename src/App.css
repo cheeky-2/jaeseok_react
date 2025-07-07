@@ -1,0 +1,9 @@
+#root {width:max-content; margin:0 auto; text-align:center; background-color:#eee;}
+#wrap {}
+#wrap a {color:#000; margin-right:20px; border-bottom:1px solid #000;}
+#wrap a:last-child {margin-right:0;}
+#wrap h1 {font-size:1.25rem; color:#000;}
+#wrap main {color:#000;}
+#wrap .contents {width:500px; padding:20px 20px;}
+#wrap .contents p {color:#000;}
+#wrap .contents img {width:500px;}
